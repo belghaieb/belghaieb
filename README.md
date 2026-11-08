@@ -1,110 +1,91 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&animation=fadeIn" width="100%" />
-</div>
 
-# 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A1628,100:14284A&text=Mouhamed%20Aziz%20Belghaieb&fontColor=FFFFFF&fontSize=46&fontAlignY=38&animation=fadeIn&desc=I%20%E2%80%A2%20VI%20%C2%B7%20FULL-STACK%20%C2%B7%20AI%20DEV&descAlignY=58&descSize=16&descColor=D4AF37" alt="Mouhamed Aziz Belghaieb" width="100%"/>
 
-Hi everyone! 👋
-
-I’m a **Computer Science major** passionate about expanding my knowledge and practical skills in software development and systems engineering. Currently, I’m diving deeper into Object-Oriented Programming (OOP) paradigms and analyzing architectural trade-offs across language ecosystems.
-
-* 🔭 **Focus Areas:** Object-Oriented Programming, Software Architecture & System Design
-* 🤝 **Open Source:** Keen to collaborate on open-source repositories and community projects
-* 💬 **Ask Me About:** OOP paradigms in C++, Java, C#, and Python
-* ⚡ **Fun Fact:** I spend the first two hours of my morning in silent reflection and work—if I'm slow to respond early in the day, that's why!
-
----
-
-## 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://linkedin.com/in/azizbelghaieb" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:azizbelghaieb@proton.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/azizbelghairb" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://facebook.com/aziz%20belghaieb" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-</div>
-
----
-
-## 💻 Tech Stack
-
-### 🚀 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🌐 Web & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-### 🛢️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=belghaieb&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belghaieb&theme=dark&hide_border=false&layout=compact" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=belghaieb&theme=dark&hide_border=false" width="98%" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-### 🏆 Achievements & Contributions
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=belghaieb&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Dev Quote" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=belghaieb&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" alt="Top Contributed Repos" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 💰 Support & Sponsorship
-
-If you find my work helpful or would like to support my open-source endeavors:
-
-<a href="https://paypal.me/mouhamedaziz" target="_blank">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+<a href="https://azizbelghaieb.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=640&lines=I+engineer+digital+solutions.;Java+%26+Spring+Boot+%7C+React+%7C+Next.js;Applied+AI+%7C+Secure+Backends+%7C+Networks;Open+to+internships+and+dev+roles" alt="Typing animation" />
 </a>
 
+<br/><br/>
+
+<a href="https://azizbelghaieb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=0A1628" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/aziz-belghaieb-749044382"><img src="https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
+<a href="mailto:azizbelghaieb@proton.me"><img src="https://img.shields.io/badge/Email-0A1628?style=for-the-badge&logo=protonmail&logoColor=D4AF37" alt="Email"/></a>
+<a href="https://instagram.com/azizbelghairb"><img src="https://img.shields.io/badge/Instagram-0A1628?style=for-the-badge&logo=instagram&logoColor=D4AF37" alt="Instagram"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=belghaieb&label=Profile%20views&color=D4AF37&labelColor=0A1628&style=flat-square" alt="Profile views"/>
+
+</div>
+
 ---
 
+## Heritage
+
+Third-year software engineering student at the University of Monastir, combining solid fundamentals (algorithmic logic, compilation, automata, network infrastructure) with full-stack and applied AI projects. Based in Gabès & Monastir, Tunisia.
+
+- 🟡 Open to internships, research and dev roles
+- 📚 Learning: OOP across Java, C++, Python and C#
+- 🤝 Open to open-source collaboration and feedback on unfinished work
+- 🌅 I spend the first two hours of my mornings reflecting and working in silence, so early replies can be slow
+
+## Craft
+
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=belghaieb&icon=0&color=0" alt="Visitor Count" />
+
+**Languages**<br/>
+![Python](https://img.shields.io/badge/Python-0A1628?style=for-the-badge&logo=python&logoColor=D4AF37)
+![Java](https://img.shields.io/badge/Java-0A1628?style=for-the-badge&logo=openjdk&logoColor=D4AF37)
+![C++](https://img.shields.io/badge/C++-0A1628?style=for-the-badge&logo=cplusplus&logoColor=D4AF37)
+![C#](https://img.shields.io/badge/C%23-0A1628?style=for-the-badge&logo=csharp&logoColor=D4AF37)
+![C](https://img.shields.io/badge/C-0A1628?style=for-the-badge&logo=c&logoColor=D4AF37)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A1628?style=for-the-badge&logo=javascript&logoColor=D4AF37)
+
+**Backend**<br/>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A1628?style=for-the-badge&logo=springboot&logoColor=D4AF37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1628?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
+![Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-0A1628?style=for-the-badge&logo=hibernate&logoColor=D4AF37)
+![JWT](https://img.shields.io/badge/JWT-0A1628?style=for-the-badge&logo=jsonwebtokens&logoColor=D4AF37)
+![Linux](https://img.shields.io/badge/Linux-0A1628?style=for-the-badge&logo=linux&logoColor=D4AF37)
+
+**Frontend**<br/>
+![React](https://img.shields.io/badge/React-0A1628?style=for-the-badge&logo=react&logoColor=D4AF37)
+![Angular](https://img.shields.io/badge/Angular-0A1628?style=for-the-badge&logo=angular&logoColor=D4AF37)
+![Next.js](https://img.shields.io/badge/Next.js-0A1628?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37)
+
+**Networking & embedded**<br/>
+![Cisco](https://img.shields.io/badge/Cisco_IOS-0A1628?style=for-the-badge&logo=cisco&logoColor=D4AF37)
+![Arduino](https://img.shields.io/badge/Arduino-0A1628?style=for-the-badge&logo=arduino&logoColor=D4AF37)
+![ESP32](https://img.shields.io/badge/ESP32--S3-0A1628?style=for-the-badge&logo=espressif&logoColor=D4AF37)
+
+</div>
+
+## Works
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Tbibi**](https://github.com/belghaieb/tbibi) · lead project | Healthcare messaging and mapping platform for secure provider communication and geolocation of medical facilities | Java · Python · AI · Google Maps API |
+| **VoxNet** · upcoming | Voice-controlled network architect that turns spoken commands into automated network configuration | Python · Cisco logic |
+| **ShopFlow** · upcoming | Enterprise e-commerce marketplace with secure multi-role access and automated stock management | Spring Boot 3 · JWT · PostgreSQL · Next.js |
+| **Project 2C** · future research | Smart vision system: real-time computer vision pipeline for optical zoom on embedded hardware | C++ · ESP32-S3 |
+
+## Certifications
+
+- **LPI Linux Essentials**, Linux Professional Institute
+- **Linux Unhatched**, Cisco Networking Academy (November 2024)
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=belghaieb&show_icons=true&hide_border=true&bg_color=0A1628&title_color=D4AF37&icon_color=D4AF37&text_color=E8E6DF" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belghaieb&layout=compact&hide_border=true&bg_color=0A1628&title_color=D4AF37&text_color=E8E6DF" alt="Top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=belghaieb&hide_border=true&background=0A1628&ring=D4AF37&fire=D4AF37&currStreakNum=E8E6DF&sideNums=E8E6DF&currStreakLabel=D4AF37&sideLabels=9AA7BD&dates=9AA7BD" alt="Streak"/>
+
+<img src="https://raw.githubusercontent.com/belghaieb/belghaieb/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:14284A,100:0A1628&section=footer" width="100%" alt=""/>
+
 </div>
