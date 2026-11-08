@@ -53,9 +53,7 @@ Currently deepening OOP across Java, C++, Python and C#. Open to open-source col
 ## # future projects
 
 | | | |
-|---|---|---|
 | **VoxNet** | Voice-controlled network architect: spoken commands become automated network configuration. `Python` `Cisco` | upcoming |
-| **ShopFlow** | Enterprise e-commerce marketplace with secure multi-role access and automated stock management. `Spring Boot 3` `JWT` `PostgreSQL` `Next.js` | upcoming |
 | **Project 2C** | Real-time computer vision pipeline for optical zoom and image transformation on embedded hardware. `C++` `ESP32-S3` | research |
 
 ## # certifications
