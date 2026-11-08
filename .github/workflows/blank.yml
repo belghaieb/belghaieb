@@ -1,15 +1,16 @@
+# Save as .github/workflows/snake.yml in the belghaieb/belghaieb repo
 name: Generate snake
- 
+
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches: [main]
- 
+
 permissions:
   contents: write
- 
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -18,12 +19,11 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-dark.svg?color_snake=#D4AF37&color_dots=#101F38,#3d3516,#6b5a1c,#a8892a,#E8CC7A
- 
+            dist/github-snake-dark.svg?color_snake=#88C0D0&color_dots=#3B4252,#4c6a5a,#6f8f6a,#8fae7e,#A3BE8C
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
- 
