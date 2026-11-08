@@ -50,16 +50,17 @@ Currently deepening OOP across Java, C++, Python and C#. Open to open-source col
 ![Arduino](https://img.shields.io/badge/Arduino-3C3836?style=flat-square&logo=arduino&logoColor=83A598)
 ![ESP32-S3](https://img.shields.io/badge/ESP32--S3-3C3836?style=flat-square&logo=espressif&logoColor=83A598)
 
-## # future projects
+## # projects
 
 | | | |
+|---|---|---|
 | **VoxNet** | Voice-controlled network architect: spoken commands become automated network configuration. `Python` `Cisco` | upcoming |
 | **Project 2C** | Real-time computer vision pipeline for optical zoom and image transformation on embedded hardware. `C++` `ESP32-S3` | research |
 
 ## # certifications
 
--  LPI Linux Essentials
-
+   LPI Linux Essentials
+   Linux Unhatched, Cisco Networking Academy (November 2024)
 
 ## # activity
 
