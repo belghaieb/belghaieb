@@ -1,29 +1,79 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=B8BB26&width=520&height=26&lines=belghaieb%40github%3A~%24+whoami" alt="whoami" />
 
-# 💫 About Me:
-Hi everyone!<br><br>I’m a computer science major passionate about expanding my knowledge and practical skills, especially in software development and programming languages. Currently, I’m diving deeper into object-oriented programming (OOP) and am keen on understanding the key differences and use cases among various languages.<br><br>I’m eager to collaborate on open-source projects and contribute to communities where I can both learn and help others. If you’re working on interesting repositories or have insights into OOP paradigms across languages like Java, C++, Python, or C#, I’d love to connect and share experiences. I’m also open to feedback on any ongoing or unfinished tasks, as I believe peer collaboration drives growth.<br><br>Fun fact: I spend the first two hours of my mornings silently reflecting and working—so if I’m slow to respond early in the day, that’s why!<br><br>Looking forward to connecting and building something valuable together.<br><br>
+# Mouhamed Aziz Belghaieb
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aziz%20belghaieb)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azizbelghairb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azizbelghaieb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azizbelghaieb@proton.me)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=83A598&width=520&height=26&lines=full-stack+developer;applied+AI+%26+secure+backends;java+%7C+spring+boot+%7C+react+%7C+next.js;open+to+internships+and+dev+roles" alt="role" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=belghaieb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=belghaieb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=belghaieb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://azizbelghaieb.netlify.app/"><img src="https://img.shields.io/badge/portfolio-3C3836?style=flat-square&logo=googlechrome&logoColor=83A598" alt="portfolio"/></a>
+<a href="https://linkedin.com/in/aziz-belghaieb-749044382"><img src="https://img.shields.io/badge/linkedin-3C3836?style=flat-square&logo=linkedin&logoColor=83A598" alt="linkedin"/></a>
+<a href="mailto:azizbelghaieb@proton.me"><img src="https://img.shields.io/badge/email-3C3836?style=flat-square&logo=protonmail&logoColor=83A598" alt="email"/></a>
+<a href="https://instagram.com/azizbelghairb"><img src="https://img.shields.io/badge/instagram-3C3836?style=flat-square&logo=instagram&logoColor=83A598" alt="instagram"/></a>
+<img src="https://komarev.com/ghpvc/?username=belghaieb&label=views&color=83A598&labelColor=3C3836&style=flat-square" alt="Profile views"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=belghaieb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## # about
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Third-year software engineering student at the University of Monastir (Gabès & Monastir, Tunisia). I like solid fundamentals (algorithms, compilation, automata, networks) and building full-stack and applied AI projects on top of them.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=belghaieb&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently deepening OOP across Java, C++, Python and C#. Open to open-source collaboration and feedback. I do my best thinking in the first two hours of the morning, so early replies can be slow.
 
----
-[![](https://visitcount.itsvg.in/api?id=belghaieb&icon=0&color=0)](https://visitcount.itsvg.in)
+## # stack
+
+**languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-3C3836?style=flat-square&logo=python&logoColor=83A598)
+![Java](https://img.shields.io/badge/Java-3C3836?style=flat-square&logo=openjdk&logoColor=83A598)
+![C++](https://img.shields.io/badge/C%2B%2B-3C3836?style=flat-square&logo=cplusplus&logoColor=83A598)
+![C#](https://img.shields.io/badge/C%23-3C3836?style=flat-square&logo=csharp&logoColor=83A598)
+![C](https://img.shields.io/badge/C-3C3836?style=flat-square&logo=c&logoColor=83A598)
+![JavaScript](https://img.shields.io/badge/JavaScript-3C3836?style=flat-square&logo=javascript&logoColor=83A598)
+![Prolog](https://img.shields.io/badge/Prolog-3C3836?style=flat-square&logoColor=83A598)
+
+**backend** &nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3C3836?style=flat-square&logo=springboot&logoColor=83A598)
+![JWT](https://img.shields.io/badge/JWT-3C3836?style=flat-square&logo=jsonwebtokens&logoColor=83A598)
+![JPA / Hibernate](https://img.shields.io/badge/JPA_%2F_Hibernate-3C3836?style=flat-square&logo=hibernate&logoColor=83A598)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3C3836?style=flat-square&logo=postgresql&logoColor=83A598)
+![Linux](https://img.shields.io/badge/Linux-3C3836?style=flat-square&logo=linux&logoColor=83A598)
+
+**frontend** &nbsp;
+![React](https://img.shields.io/badge/React-3C3836?style=flat-square&logo=react&logoColor=83A598)
+![Angular](https://img.shields.io/badge/Angular-3C3836?style=flat-square&logo=angular&logoColor=83A598)
+![Next.js](https://img.shields.io/badge/Next.js-3C3836?style=flat-square&logo=nextdotjs&logoColor=83A598)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-3C3836?style=flat-square&logo=thymeleaf&logoColor=83A598)
+
+**ai / data** &nbsp;
+![Symbolic AI](https://img.shields.io/badge/Symbolic_AI-3C3836?style=flat-square&logoColor=83A598)
+![NLP / TF-IDF](https://img.shields.io/badge/NLP_%2F_TF--IDF-3C3836?style=flat-square&logoColor=83A598)
+![ETL · OLAP](https://img.shields.io/badge/ETL_%C2%B7_OLAP-3C3836?style=flat-square&logoColor=83A598)
+![Maps API](https://img.shields.io/badge/Maps_API-3C3836?style=flat-square&logo=googlemaps&logoColor=83A598)
+
+**network & embedded** &nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-3C3836?style=flat-square&logo=arduino&logoColor=83A598)
+![ESP32-S3](https://img.shields.io/badge/ESP32--S3-3C3836?style=flat-square&logo=espressif&logoColor=83A598)
+
+## # future projects
+
+| | | |
+|---|---|---|
+| **VoxNet** | Voice-controlled network architect: spoken commands become automated network configuration. `Python` `Cisco` | upcoming |
+| **ShopFlow** | Enterprise e-commerce marketplace with secure multi-role access and automated stock management. `Spring Boot 3` `JWT` `PostgreSQL` `Next.js` | upcoming |
+| **Project 2C** | Real-time computer vision pipeline for optical zoom and image transformation on embedded hardware. `C++` `ESP32-S3` | research |
+
+## # certifications
+
+-  LPI Linux Essentials
 
 
- 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## # activity
+
+<p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=belghaieb&show_icons=true&icon_color=83A598&hide_border=true&bg_color=282828&title_color=83A598&text_color=EBDBB2" alt="GitHub stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belghaieb&layout=compact&hide_border=true&bg_color=282828&title_color=83A598&text_color=EBDBB2" alt="Top languages"/>
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=belghaieb&hide_border=true&background=282828&ring=83A598&fire=B8BB26&currStreakNum=EBDBB2&sideNums=EBDBB2&currStreakLabel=83A598&sideLabels=A89984&dates=A89984" alt="Streak"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/belghaieb/belghaieb/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/belghaieb/belghaieb/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/belghaieb/belghaieb/output/github-snake.svg" width="100%">
+</picture>
