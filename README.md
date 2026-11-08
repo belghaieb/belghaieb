@@ -8,7 +8,6 @@
 <a href="https://linkedin.com/in/aziz-belghaieb-749044382"><img src="https://img.shields.io/badge/linkedin-3C3836?style=flat-square&logo=linkedin&logoColor=83A598" alt="linkedin"/></a>
 <a href="mailto:azizbelghaieb@proton.me"><img src="https://img.shields.io/badge/email-3C3836?style=flat-square&logo=protonmail&logoColor=83A598" alt="email"/></a>
 <a href="https://instagram.com/azizbelghairb"><img src="https://img.shields.io/badge/instagram-3C3836?style=flat-square&logo=instagram&logoColor=83A598" alt="instagram"/></a>
-<img src="https://komarev.com/ghpvc/?username=belghaieb&label=views&color=83A598&labelColor=3C3836&style=flat-square" alt="Profile views"/>
 
 ## # about
 
