@@ -11,7 +11,37 @@ on:
 permissions:
   contents: write
 
+jobs# Save as .github/workflows/snake.yml in your profile repository
+name: Generate snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
 jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-dark.svg?color_snake=#FFFFFF&color_dots=#3C3836,#4A4F1F,#6B7121,#8F9622,#B8BB26&color_dot_border=#504945
+            dist/github-snake.svg?palette=github-light&color_snake=#FFFFFF
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
   generate:
     runs-on: ubuntu-latest
     steps:
