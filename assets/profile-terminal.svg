@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="330" viewBox="0 0 850 330" role="img" aria-label="Terminal profile of Mouhamed Aziz Belghaieb">
+  <rect width="850" height="330" rx="18" fill="#11111b"/>
+  <rect x="1" y="1" width="848" height="328" rx="17" fill="none" stroke="#313244" stroke-width="2"/>
+  <rect x="0" y="0" width="850" height="46" rx="18" fill="#181825"/>
+  <rect x="0" y="28" width="850" height="18" fill="#181825"/>
+  <circle cx="24" cy="23" r="7" fill="#f38ba8"/>
+  <circle cx="48" cy="23" r="7" fill="#f9e2af"/>
+  <circle cx="72" cy="23" r="7" fill="#a6e3a1"/>
+  <text x="425" y="28" text-anchor="middle" font-family="monospace" font-size="14" fill="#9399b2">belghaieb — profile</text>
+
+  <g transform="translate(28 66)">
+    <rect width="220" height="236" rx="12" fill="#1e1e2e" stroke="#45475a"/>
+    <g transform="translate(38 18)" shape-rendering="crispEdges">
+      <rect x="42" y="0" width="60" height="18" fill="#89b4fa"/>
+      <rect x="24" y="18" width="96" height="18" fill="#89b4fa"/>
+      <rect x="12" y="36" width="120" height="18" fill="#89b4fa"/>
+      <rect x="12" y="54" width="120" height="18" fill="#89b4fa"/>
+      <rect x="24" y="72" width="96" height="18" fill="#89b4fa"/>
+      <rect x="42" y="90" width="60" height="18" fill="#89b4fa"/>
+      <rect x="30" y="108" width="84" height="18" fill="#89b4fa"/>
+      <rect x="30" y="126" width="36" height="18" fill="#cba6f7"/>
+      <rect x="78" y="126" width="36" height="18" fill="#cba6f7"/>
+      <rect x="18" y="144" width="108" height="18" fill="#f38ba8"/>
+      <rect x="30" y="162" width="84" height="18" fill="#f38ba8"/>
+      <rect x="42" y="180" width="60" height="18" fill="#f38ba8"/>
+    </g>
+  </g>
+
+  <g font-family="monospace">
+    <text x="278" y="91" font-size="15" fill="#a6e3a1">$ whoami</text>
+    <text x="278" y="127" font-size="31" font-weight="700" fill="#cdd6f4">Mouhamed Aziz</text>
+    <text x="278" y="158" font-size="31" font-weight="700" fill="#89b4fa">Belghaieb</text>
+    <text x="278" y="194" font-size="14" fill="#9399b2">student  /  developer  /  builder</text>
+    <text x="278" y="229" font-size="15" fill="#cba6f7">&gt; software engineering</text>
+    <text x="278" y="252" font-size="15" fill="#fab387">&gt; applied AI &amp; secure systems</text>
+    <text x="278" y="275" font-size="15" fill="#94e2d5">&gt; Java · Spring · Next.js · Linux</text>
+  </g>
+</svg>
