@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="293" height="222" viewBox="0 0 293 222" role="img" aria-label="BUILDING: Daily">
+<rect width="293" height="222" rx="14" fill="#eee6d3"/>
+<rect x="1" y="1" width="291" height="220" rx="13" fill="none" stroke="#d4c7aa"/>
+<text x="24" y="34" font-family="monospace" font-size="11" fill="#6d7898">BUILDING</text>
+<text x="24" y="82" font-family="serif" font-size="34" fill="#102a43">Daily</text>
+<text x="24" y="112" font-family="monospace" font-size="11" fill="#3f718c">CareFree · VoxNet · Project 2C</text>
+</svg>
