@@ -1,69 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="432" viewBox="0 0 880 432" role="img" aria-label="Mouhamed Aziz Belghaieb, software engineering student and full-stack developer">
-<rect width="880" height="432" rx="18" fill="#eee6d3"/>
-<rect x="1" y="1" width="878" height="430" rx="17" fill="none" stroke="#d4c7aa"/>
-<text x="440" y="28" text-anchor="middle" font-family="monospace" font-size="12" fill="#6d7898">aziz@github:~</text>
-<rect x="18" y="52" width="400" height="362" rx="10" fill="#dfe4e8" stroke="#cbd1d6"/>
-<text x="26" y="94.00" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                             -=+**##%%%%%%%##***+=-                               </text>
-<text x="26" y="99.55" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                             -=+**###%%%%%%##***+=-                               </text>
-<text x="26" y="105.10" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                            .-=+**###%%%%%%##***+=-.                              </text>
-<text x="26" y="110.65" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                            .-=***###%%%%%%##***+=-.                              </text>
-<text x="26" y="116.20" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                            .-=***###%%%%%%###**+=-.                              </text>
-<text x="26" y="121.75" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                            .-=**###%%%%%%%%###*+--.                              </text>
-<text x="26" y="127.30" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                            .-+*+*##%%%%%%%##**++=-:                              </text>
-<text x="26" y="132.85" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                            .=-:.:---=###*=-:::..-=:                              </text>
-<text x="26" y="138.40" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                            .. .::::..=**-..::.:. -. :                            </text>
-<text x="26" y="143.95" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                          -- .::--:.::   .:::==-:...=+.                           </text>
-<text x="26" y="149.50" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                          :-::=:.::=--.+- ---::::-:.=-:                           </text>
-<text x="26" y="155.05" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                         .=--:+-:==+*=:%*.+++=-.-=.:-+-                           </text>
-<text x="26" y="160.60" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                         .+=-:++++**#==%#:*#*+==+=::-*-                           </text>
-<text x="26" y="166.15" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                          +=-==**##%#:*%#=+%##**+---=*.                           </text>
-<text x="26" y="171.70" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                          =*-+-+#%%#-=#%#+-#%%##+---**.                           </text>
-<text x="26" y="177.25" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                          =*-=+=+==-=*#%#*+-+**+==-:**.                           </text>
-<text x="26" y="182.80" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                          -+:=*******##%#*#+=+=+++--*-                            </text>
-<text x="26" y="188.35" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                          .+--**###*+-*%#=-+*###*=:=*:                            </text>
-<text x="26" y="193.90" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                           :--+**##*= :+-..=****+=:-=                             </text>
-<text x="26" y="199.45" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                             -=+*#+++=:.:=++==**==:                               </text>
-<text x="26" y="205.00" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                             :=++*--===++===--**+=.                               </text>
-<text x="26" y="210.55" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                             .=+**=:=****#*=-+*++-                                </text>
-<text x="26" y="216.10" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                              :=****+#%%%%*+*#*+=:.                               </text>
-<text x="26" y="221.65" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                              .-=***+*####*+*#+-:..                               </text>
-<text x="26" y="227.20" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                               .-=*#++***+++**=:..:                               </text>
-<text x="26" y="232.75" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                                .-=**+====***+-. :-                               </text>
-<text x="26" y="238.30" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                               . .-+#*****##*-. .-+-                              </text>
-<text x="26" y="243.85" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                               .. .=+**##***=: .--+#                              </text>
-<text x="26" y="249.40" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                               .:  .==+***+=:  :--*%:                             </text>
-<text x="26" y="254.95" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                               -::  .:=---::  :-=+%%=                             </text>
-<text x="26" y="260.50" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                              :*::.   ....  .:-=+%@%=                             </text>
-<text x="26" y="266.05" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                              -*:-:..  .....:-=+*@%%-                             </text>
-<text x="26" y="271.60" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                              =*:=-::.....:::==*@@%%:                             </text>
-<text x="26" y="277.15" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                              *%:==:::-::::-==+@@@@*                              </text>
-<text x="26" y="282.70" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                              %@--==--:-----==%@@@@=    .                         </text>
-<text x="26" y="288.25" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                             .@@+-++=-----===%@@%@%..  ... .                      </text>
-<text x="26" y="293.80" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                             :@@#-++========#@@@%@+..  ... ..                     </text>
-<text x="26" y="299.35" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                             -@@@==++++++==*@@@%@%:....... ..                     </text>
-<text x="26" y="304.90" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                             =%*@*-++==++-*@@@%%@*........ ...                    </text>
-<text x="26" y="310.45" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                     ...     +#-*@==++===*%#%@%@@-........ .....                  </text>
-<text x="26" y="316.00" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                    ...      :#=+%#=*+++*%%#*#%@#........  ........   .           </text>
-<text x="26" y="321.55" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                   ....       **#*%*+*++%%@%#*%@+......  ................         </text>
-<text x="26" y="327.10" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                  ...         =%%#*#***#%%@%%##%:...........................      </text>
-<text x="26" y="332.65" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                  ...         +%%%##%###@@@%@@@+...........................       </text>
-<text x="26" y="338.20" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">            .    .. .  .     .#@@@%#%%*#@@%@@@@-..........................        </text>
-<text x="26" y="343.75" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">            .    ....        .#@@@@%%%#*@%@@@@#..........................         </text>
-<text x="26" y="349.30" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                 ....        .#@@@@@@@%#%@@@@@=.........................          </text>
-<text x="26" y="354.85" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                ... .        .#@@@@@@@@%@@@@@%:.........................          </text>
-<text x="26" y="360.40" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">                ... ..       .#@%@@@@@%%@@@@@*...........................         </text>
-<text x="26" y="365.95" font-family="monospace" font-size="5.6" letter-spacing="0" fill="#2e3a63">               ... ...  .    .#@%@@@@%%@@@@@@=...........................         </text>
-<rect x="438" y="52" width="424" height="362" rx="10" fill="#102a43" stroke="#102a43"/>
-<text x="650" y="106" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#f4ecd9">Mouhamed Aziz Belghaieb</text>
-<g font-family="monospace" font-size="14">
-<text x="470" y="168"><tspan fill="#75a6c2">role</tspan><tspan fill="#8190a8">       </tspan><tspan fill="#f4ecd9">software engineering student</tspan></text>
-<text x="470" y="198"><tspan fill="#75a6c2">build</tspan><tspan fill="#8190a8">      </tspan><tspan fill="#f4ecd9">full-stack systems</tspan></text>
-<text x="470" y="228"><tspan fill="#75a6c2">focus</tspan><tspan fill="#8190a8">     </tspan><tspan fill="#f4ecd9">security · AI · embedded</tspan></text>
-<text x="470" y="258"><tspan fill="#75a6c2">stack</tspan><tspan fill="#8190a8">     </tspan><tspan fill="#f4ecd9">Java · Spring · Next.js</tspan></text>
-<text x="470" y="288"><tspan fill="#75a6c2">base</tspan><tspan fill="#8190a8">      </tspan><tspan fill="#f4ecd9">Monastir, Tunisia</tspan></text>
-</g>
-<g font-family="monospace" font-size="11">
-<rect x="470" y="334" width="112" height="34" rx="17" fill="#e7e0cb"/><text x="526" y="356" text-anchor="middle" fill="#102a43">PORTFOLIO</text>
-<rect x="594" y="334" width="112" height="34" rx="17" fill="#e7e0cb"/><text x="650" y="356" text-anchor="middle" fill="#102a43">LINKEDIN</text>
-<rect x="718" y="334" width="112" height="34" rx="17" fill="#e7e0cb"/><text x="774" y="356" text-anchor="middle" fill="#102a43">EMAIL</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" role="img" aria-label="Mouhamed Aziz Belghaieb. Software engineering student and full-stack developer.">
+<rect width="880" height="420" rx="14" fill="#f3f3ef"/>
+<rect x="1" y="1" width="878" height="418" rx="13" fill="none" stroke="#dcdcd7"/>
+<text x="44" y="82" font-family="monospace" font-size="12" letter-spacing="1" fill="#6e6e73">SOFTWARE ENGINEERING STUDENT</text>
+<text x="44" y="180" font-family="Georgia,serif" font-size="72" letter-spacing="-2" fill="#111111">Mouhamed Aziz</text>
+<text x="44" y="248" font-family="Georgia,serif" font-size="72" letter-spacing="-2" font-style="italic" fill="#2f55ff">Belghaieb</text>
+<text x="48" y="302" font-family="system-ui,sans-serif" font-size="18" fill="#3a3a3c">I build full-stack systems, applied AI,</text>
+<text x="48" y="329" font-family="system-ui,sans-serif" font-size="18" fill="#3a3a3c">secure backends and connected devices.</text>
+<text x="48" y="382" font-family="monospace" font-size="12" fill="#111111">portfolio / linkedin / email</text>
+<text xml:space="preserve" x="552" y="75.0" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                           .=+***##%%%%%%##**+==.                             </text>
+<text xml:space="preserve" x="552" y="81.7" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                           .=+**###%%%%%%##***+=.                             </text>
+<text xml:space="preserve" x="552" y="88.4" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                           :=+**###%%%%%%##***+=:                             </text>
+<text xml:space="preserve" x="552" y="95.1" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                           :=+**###%%%%%%##***+=:                             </text>
+<text xml:space="preserve" x="552" y="101.8" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                           :-+**###%%%%%%###**=-:                             </text>
+<text xml:space="preserve" x="552" y="108.5" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                           :-+*###%%%%%%%%###*=-:                             </text>
+<text xml:space="preserve" x="552" y="115.2" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                           -=+++**#%%%%%%#**+++=-                             </text>
+<text xml:space="preserve" x="552" y="121.9" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                           :-:..:::-*%#*--:....--                             </text>
+<text xml:space="preserve" x="552" y="128.6" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                         . . .:::...-=+-..:::: .: -.                          </text>
+<text xml:space="preserve" x="552" y="135.3" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                        .=: :::-::::    :::==-:..:+:                          </text>
+<text xml:space="preserve" x="552" y="142.0" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                        .--:--.:-===.*+.==-::.--.:--                          </text>
+<text xml:space="preserve" x="552" y="148.7" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                        :+-:-+-=++*+:%#:+*+=-:+-.:=+                          </text>
+<text xml:space="preserve" x="552" y="155.4" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                        :*---****##==%#-*##*+++---+=                          </text>
+<text xml:space="preserve" x="552" y="162.1" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                        .+===+##%%*:*%#==%%##*=--=#-                          </text>
+<text xml:space="preserve" x="552" y="168.8" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                         *+-+=+**+-+#%#*-=#%#*==:=#-                          </text>
+<text xml:space="preserve" x="552" y="175.5" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                        .+=-+*+++=*##%#*#=====+=:=*:                          </text>
+<text xml:space="preserve" x="552" y="182.2" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                         -+:+*####*+#%#*+**##*+=:*=                           </text>
+<text xml:space="preserve" x="552" y="188.9" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                         .=-=*####+.:*+..+*##*+-:*-                           </text>
+<text xml:space="preserve" x="552" y="195.6" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                           :=+**#++-:.::=+++*+=-..                            </text>
+<text xml:space="preserve" x="552" y="202.3" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                            =++*=-+====+==-=*++-                              </text>
+<text xml:space="preserve" x="552" y="209.0" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                            :+**+.-+*****-:+*++:                              </text>
+<text xml:space="preserve" x="552" y="215.7" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                            .-+***+#%%%%*+*#*=-.                              </text>
+<text xml:space="preserve" x="552" y="222.4" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                             :=***+*####*+*#+-:..                             </text>
+<text xml:space="preserve" x="552" y="229.1" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                              :-+#*+****++#*-: :.                             </text>
+<text xml:space="preserve" x="552" y="235.8" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                               :=**++==+***=:..-:                             </text>
+<text xml:space="preserve" x="552" y="242.5" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                              ..:=*##***##*-. :-*.                            </text>
+<text xml:space="preserve" x="552" y="249.2" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                              .  -+**##**+-. .--%-                            </text>
+<text xml:space="preserve" x="552" y="255.9" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                              :.  -=+++*==. .-==%*                            </text>
+<text xml:space="preserve" x="552" y="262.6" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                             :-:.  .---::. .:==#@#.                           </text>
+<text xml:space="preserve" x="552" y="269.3" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                             +=::.        .:==*@@#.                           </text>
+<text xml:space="preserve" x="552" y="276.0" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                             *---:........:-++@@@*                            </text>
+<text xml:space="preserve" x="552" y="282.7" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                             %--=:::::::::-=+%@@@=                            </text>
+<text xml:space="preserve" x="552" y="289.4" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                            :@+-=-::------==#@@@%:                            </text>
+<text xml:space="preserve" x="552" y="296.1" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                            =@*:=+=------==#@@%@*.   ..                       </text>
+<text xml:space="preserve" x="552" y="302.8" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                            +@%-=+===-====*@@@@@-..  .. .                     </text>
+<text xml:space="preserve" x="552" y="309.5" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                            *@@+-+++++===+@@@%@#... ... ..                    </text>
+<text xml:space="preserve" x="552" y="316.2" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                            #%@%-=+==++=+@@@%%@=... ... ...                   </text>
+<text xml:space="preserve" x="552" y="322.9" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                     .     .#=+@==++===+%%@@%@%:............                  </text>
+<text xml:space="preserve" x="552" y="329.6" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                    ...     *+=%%=+++++%%##%%@+.......  .......               </text>
+<text xml:space="preserve" x="552" y="336.3" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                  ....      -#**%#+*++%%%%##@@-......  .........  ...         </text>
+<text xml:space="preserve" x="552" y="343.0" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                  ..        .#%#*#****%%@%%#%#..........................      </text>
+<text xml:space="preserve" x="552" y="349.7" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                 ...        :#%%##%###@@@%@@@-.........................       </text>
+<text xml:space="preserve" x="552" y="356.4" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">           .    ....  .     -@@@%%%%##@@%@@@%.........................        </text>
+<text xml:space="preserve" x="552" y="363.1" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">           .    ....        -@@@@%%%#*@%@@@@+........................         </text>
+<text xml:space="preserve" x="552" y="369.8" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">                ....        -@%@@@@@%#%@@@@@-........................         </text>
+<text xml:space="preserve" x="552" y="376.5" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">               ... .        -@%@@@@@@%@@@@@#.........................         </text>
+<text xml:space="preserve" x="552" y="383.2" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">           .   ... ..       -@%@@@@@%%@@@@@=..........................        </text>
+<text xml:space="preserve" x="552" y="389.9" fill="#111111" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.4">           .      ...       -@%@@@@@%@@@@@%:..........................        </text>
+</svg>

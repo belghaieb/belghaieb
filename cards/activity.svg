@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" role="img" aria-label="Engineering activity summary">
-<rect width="880" height="260" rx="14" fill="#eee6d3"/>
-<rect x="1" y="1" width="878" height="258" rx="13" fill="none" stroke="#d4c7aa"/>
-<text x="24" y="34" font-family="monospace" font-size="12" fill="#6d7898">~/activity --summary</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="Engineering activity summary">
+<rect width="880" height="300" rx="14" fill="#f3f3ef"/>
+<rect x="1" y="1" width="878" height="298" rx="13" fill="none" stroke="#dcdcd7"/>
+<text x="24" y="34" font-family="monospace" font-size="12" fill="#6e6e73">~/activity --summary</text>
 <g font-family="monospace">
-<rect x="24" y="58" width="264" height="178" rx="10" fill="#102a43"/>
-<text x="44" y="88" font-size="11" fill="#b9ab8e">FEATURED PROJECTS</text><text x="44" y="128" font-size="24" font-weight="700" fill="#f4ecd9">03</text><text x="44" y="154" font-size="11" fill="#cbd4d8">TBIBI / ShopFlow / Prefacture</text><text x="44" y="194" font-size="11" fill="#75a6c2">● full-stack delivery</text>
-<rect x="308" y="58" width="264" height="178" rx="10" fill="#102a43"/>
-<text x="328" y="88" font-size="11" fill="#b9ab8e">PRIMARY STACK</text><text x="328" y="128" font-size="24" font-weight="700" fill="#f4ecd9">JAVA</text><text x="328" y="154" font-size="11" fill="#cbd4d8">Spring · REST · JWT · JPA</text><text x="328" y="194" font-size="11" fill="#75a6c2">● backend engineering</text>
-<rect x="592" y="58" width="264" height="178" rx="10" fill="#102a43"/>
-<text x="612" y="88" font-size="11" fill="#b9ab8e">CURRENT DIRECTION</text><text x="612" y="128" font-size="24" font-weight="700" fill="#f4ecd9">AI + IOT</text><text x="612" y="154" font-size="11" fill="#cbd4d8">OCR · ESP32 · connected systems</text><text x="612" y="194" font-size="11" fill="#75a6c2">● applied engineering</text>
+<rect x="24" y="58" width="264" height="214" rx="10" fill="#e2e2de" stroke="#dcdcd7"/>
+<text x="44" y="92" font-size="12" fill="#6e6e73">FEATURED PROJECTS</text><text x="44" y="138" font-size="28" font-weight="700" fill="#111111">03</text><text x="44" y="166" font-size="12" fill="#3a3a3c">TBIBI · ShopFlow · Prefacture</text><text x="44" y="214" font-size="12" fill="#2f55ff">full-stack delivery</text>
+<rect x="308" y="58" width="264" height="214" rx="10" fill="#e2e2de" stroke="#dcdcd7"/>
+<text x="328" y="92" font-size="12" fill="#6e6e73">PRIMARY STACK</text><text x="328" y="138" font-size="28" font-weight="700" fill="#111111">JAVA</text><text x="328" y="166" font-size="12" fill="#3a3a3c">Spring · REST · JWT · JPA</text><text x="328" y="214" font-size="12" fill="#2f55ff">backend engineering</text>
+<rect x="592" y="58" width="264" height="214" rx="10" fill="#e2e2de" stroke="#dcdcd7"/>
+<text x="612" y="92" font-size="12" fill="#6e6e73">CURRENT DIRECTION</text><text x="612" y="138" font-size="28" font-weight="700" fill="#111111">AI + IOT</text><text x="612" y="166" font-size="12" fill="#3a3a3c">OCR · ESP32 · connected systems</text><text x="612" y="214" font-size="12" fill="#2f55ff">applied engineering</text>
 </g></svg>

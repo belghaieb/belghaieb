@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="293" height="222" viewBox="0 0 293 222" role="img" aria-label="Cement Prefacture">
-<rect width="293" height="222" rx="14" fill="#eee6d3"/>
-<rect x="1" y="1" width="291" height="220" rx="13" fill="none" stroke="#d4c7aa"/>
-<rect x="24" y="24" width="245" height="6" rx="3" fill="#3f718c"/>
-<text x="24" y="78" font-family="monospace" font-size="22" font-weight="700" fill="#102a43">Cement Prefacture</text>
-<text x="24" y="112" font-family="monospace" font-size="11" fill="#3f718c">AI invoice verification</text>
-<text x="24" y="188" font-family="monospace" font-size="11" fill="#6d7898">github/belghaieb/cement-project</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="293" height="222" viewBox="0 0 293 222" role="img" aria-label="Cement Prefacture: AI invoice workflow">
+<rect width="293" height="222" rx="14" fill="#f3f3ef"/><rect x="1" y="1" width="291" height="220" rx="13" fill="none" stroke="#dcdcd7"/>
+<rect x="24" y="24" width="245" height="6" rx="3" fill="#2f55ff"/>
+<text x="24" y="78" font-family="monospace" font-size="20" font-weight="700" fill="#111111">Cement Prefacture</text>
+<text x="24" y="108" font-family="monospace" font-size="11" fill="#3a3a3c">AI invoice workflow</text>
+<text x="24" y="140" font-family="monospace" font-size="10" fill="#6e6e73">Java · Gemini OCR</text>
+<text x="24" y="190" font-family="monospace" font-size="12" fill="#2f55ff">VIEW REPOSITORY  →</text>
 </svg>
